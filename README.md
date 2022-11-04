@@ -25,3 +25,20 @@ enter a integer number for your key : **enter a number between 0 and 100**
 
 successful file XOR encryption !
 ```
+
+## Decrypt a file encrypted
+
+Run the decrypt script
+```bash
+python3 decrypt.py
+```
+How to use the script
+```bash
+which .txt file do you want to decrypt ? : **enter the absolute path to the .txt file to decrypt**
+
+message to decrypt : **print the content of the file**
+
+enter the key : **enter a number between 0 and 100**
+
+Successful file decryption !
+```
